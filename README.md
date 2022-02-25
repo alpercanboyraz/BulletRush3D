@@ -17,13 +17,13 @@ Player bir range'e sahiptir.Playerın range'ine enemyler girdiğinde animasyon d
 ## Projede Geliştirilebilir Durumlar 
 ```
 Object Pool Pattern
-++Projede Şu an mermiler Instantiate olduktan 2 saniye sonra yok olmaktadır.Bu durum object pooling pattern ile daha optimize çalışabilir.
+++ Projede Şu an mermiler Instantiate olduktan 2 saniye sonra yok olmaktadır.Bu durum object pooling pattern ile daha optimize çalışabilir.
 ```
 ```
 Idle Animation &nbsp;
 Cinemachine &nbsp;
 Big enemy'nin player'ın arkasından saldırı yapması &nbsp;
-++Bu durumlar deadline süresinden dolayı yetiştirelememiştir.
+++ Bu durumlar deadline süresinden dolayı yetiştirelememiştir.
 ```
 ## Çözülemeyen Buglar
 ```
