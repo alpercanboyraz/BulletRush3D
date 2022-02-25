@@ -27,5 +27,5 @@ Big enemy'nin player'ın arkasından saldırı yapması
 ```
 ## Çözülemeyen Buglar
 ```
-+Spawn edilen enemyler bazen navmesh'in bake ettiği alanın sınırlarında takılı kalmaktadır.
+Spawn edilen enemyler bazen navmesh'in bake ettiği alanın sınırlarında takılı kalmaktadır.
 ```
