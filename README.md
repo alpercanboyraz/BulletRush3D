@@ -12,11 +12,9 @@
 
 - Object Pool Pattern
 + Projede Şu an mermiler Instantiate olduktan 2 saniye sonra yok olmaktadır.Bu durum object pooling pattern ile daha optimize çalışabilir.
-
 -Idle Animation
 -Cinemachine
 -Big enemy'nin player'ın arkasından saldırı yapması
-
 + Bu durumlar deadline süresinden dolayı yetiştirelememiştir.
 
 ## Çözülemeyen buglar
