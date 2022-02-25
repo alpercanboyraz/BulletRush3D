@@ -2,12 +2,16 @@
 
 
 ## Oyun Mantığı
-
+```
 Enemyler spawn edildikten sonra playerın üzerine gelmektedir bu durum navmesh ile gerçekleşmektedir.
+```
 ```
 Player hareketleri için Touch Input kullanılmıştır.
 ```
+
+```
 Player bir range'e sahiptir.Playerın range'ine enemyler girdiğinde animasyon değişir ve otomatik ateş etmeye başlar.
+```
 
 
 ## Projede geliştirilebilir durumlar 
